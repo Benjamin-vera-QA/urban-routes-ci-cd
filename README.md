@@ -73,6 +73,7 @@ y contiene estos pasos principales:
 
 Benjamín Vera
 QA Engineer | Automatización de pruebas | CI/CD con GitHub Actions
+
 📫 LinkedIn
 www.linkedin.com/in/benjamin-vera-qa
 
