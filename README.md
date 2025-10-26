@@ -75,5 +75,6 @@ Benjamín Vera
 QA Engineer | Automatización de pruebas | CI/CD con GitHub Actions
 📫 LinkedIn
 www.linkedin.com/in/benjamin-vera-qa
+
 📂 GitHub
 https://github.com/Benjamin-vera-QA
